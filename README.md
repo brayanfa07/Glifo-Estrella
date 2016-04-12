@@ -15,4 +15,4 @@ Integrantes:
 
 **201157035 Brayan Fajardo Alvarado**
 
-[Acceso a la Wiki de Glifo en Estrella aquí](https://github.com/brayanfa07/Glifo-Estrella/wiki/Glifo-Estrella)
+[Acceso a la Wiki de Glifo en Estrella aquí](https://github.com/brayanfa07/Glifo-Estrella/wiki/Glifo-Estrella-%5B-class--GlyphStar-%5D)
