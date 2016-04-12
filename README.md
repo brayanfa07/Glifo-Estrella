@@ -12,4 +12,7 @@ Integrantes:
 
 
 **201131292 Marvin Carranza Romero**
+
 **201157035 Brayan Fajardo Alvarado**
+
+[Acceso a la Wiki de Glifo en Estrella aquí](https://github.com/brayanfa07/Glifo-Estrella/wiki/Glifo-Estrella)
